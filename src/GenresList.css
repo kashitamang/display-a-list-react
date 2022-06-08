@@ -1,0 +1,11 @@
+.genre-list {
+    border-radius: 5px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    width: 80px;
+    font-weight: bold;
+    padding-left: 20px;
+    padding-right: 20px;
+    background-color: rgb(237, 236, 236);
+}

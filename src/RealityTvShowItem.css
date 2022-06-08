@@ -1,0 +1,9 @@
+.reality-tv-show-item {
+    border-radius: 5px;
+    width: 250px;
+    background-color: rgb(48, 48, 48);
+    color: rgb(244, 250, 233);
+    padding: 10px;
+    margin: 30px;
+    height: 200px;
+}

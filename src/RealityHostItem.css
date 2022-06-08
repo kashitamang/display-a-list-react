@@ -1,0 +1,9 @@
+.reality-host-item {
+    border-radius: 5px;
+    width: 250px;
+    background-color: rgb(109, 96, 108);
+    color: rgb(244, 250, 233);
+    padding: 10px;
+    margin: 30px;
+    height: 200px;
+}
