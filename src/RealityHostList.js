@@ -1,4 +1,5 @@
 import RealityHostItem from './RealityHostItem.js';
+import './RealityHostList.css';
 
 export default function RealityHostList({ realityhosts }) {
   return (
