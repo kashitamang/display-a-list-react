@@ -1,4 +1,5 @@
 import RealityStarItem from './RealityStarItem.js';
+import './RealityStarsList.css';
 
 export default function RealityStarsList({ realitystars }) {
   return (
