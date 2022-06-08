@@ -11,7 +11,9 @@ import RealityTvShowList from './RealityTvShowList';
 function App() {
   return (
     <div className="App">
+      <h2>TV Info</h2>
       <GenresList genres={genres}/>
+      <h2>Reality TV Shows</h2>
       <RealityTvShowList realityTvShows={realityTvShows}/>
     </div>
   );
