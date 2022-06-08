@@ -15,7 +15,7 @@ import RealityHostList from './RealityHostList';
 function App() {
   return (
     <div className="App">
-      <h1>TV Info</h1>
+      <h1>📺 TV Info 📺</h1>
       <GenresList genres={genres}/>
       <h2>Reality TV Shows</h2>
       <RealityTvShowList realityTvShows={realityTvShows}/>
